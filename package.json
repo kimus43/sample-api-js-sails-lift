@@ -7,7 +7,7 @@
   "dependencies": {
     "app-root-path": "^2.0.1",
     "async": "^2.3.0",
-    "ejs": "2.3.4",
+    "ejs": ">=2.5.5",
     "fs": "0.0.1-security",
     "grunt": "1.0.1",
     "grunt-contrib-clean": "1.0.0",
